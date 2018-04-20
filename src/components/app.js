@@ -62,7 +62,7 @@ export default class App extends Component {
         `
         const ShowCase = styled.div `
             width: 300px;
-            margin-top: 100px;
+            margin-top: 10%;
             border-radius: 15px;
             box-shadow: 5px 10px 18px #a9a9a9;
         `
